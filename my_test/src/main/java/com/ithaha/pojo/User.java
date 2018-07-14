@@ -1,4 +1,4 @@
-package com.ithaha.com.ithaha.pojo;
+package com.ithaha.pojo;
 
 /**
  * @author lf
